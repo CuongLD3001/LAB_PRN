@@ -1,0 +1,923 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\studentcourses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\studentcourses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_2_leduycuong_he163193\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC5FA3E-C205-49C5-A5C2-BBF5F1475AF7}|LAB_2_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_2_leduycuong_he163193\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\studentcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\studentcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\attendancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\attendancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\schedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\schedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\teacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\teacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\subjectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\subjectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\migrations\\20240530150034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\migrations\\20240530150034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\dto\\studentscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\dto\\studentscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|c:\\users\\huupb\\source\\repos\\lab_1_leduycuong_he163193\\lab_1_leduycuong_he163193\\migrations\\schoollab1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4CF42-03BF-4759-8C8F-703F9366E981}|LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj|solutionrelative:lab_1_leduycuong_he163193\\migrations\\schoollab1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\StudentCourses\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\StudentCourses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\StudentCourses\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\StudentCourses\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvygAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:41:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Subjects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Subjects\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:41:24.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:39:33.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:39:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:27:25.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:27:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:19:56.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Schedules\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Schedules\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:07:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:26:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:25:51.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:04:48.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:18:59.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Program.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Program.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Program.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:18:28.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:41:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T16:03:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Program.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Program.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Program.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:15:21.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:42:58.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:03:25.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\WeatherForecast.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\WeatherForecast.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:15:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:11:19.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:38:11.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:28:03.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LAB_1_LEDUYCUONG_HE163193",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T16:03:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentCoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\StudentCoursesController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:50:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LAB_2_LEDUYCUONG_HE163193\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:27:58.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttendancesController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\AttendancesController.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\AttendancesController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\AttendancesController.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\AttendancesController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvy0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:37:35.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\SchedulesController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAywFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:40:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:46:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LAB_1_LEDUYCUONG_HE163193.csproj",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T07:16:10.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAQwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:03:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:43:45.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\appsettings.json",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\appsettings.json",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\appsettings.json",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T07:06:11.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Teacher.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:41:49.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Subject.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:41:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Student.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:17:12.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Schedule.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\Schedule.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:23:23.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Course.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:19:14.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Models\\Attendance.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Models\\Attendance.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:47:00.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:34:48.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ScheduleDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:38:32.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudentCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:18:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\CourseRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\CourseRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\CourseRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\CourseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:17:53.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AttendanceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:49:47.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentCourseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:01:22.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\AttendanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:49:31.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:29:02.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ScheduleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\ScheduleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:32:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TeacherRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\TeacherRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:22:38.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:38:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SubjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectRequest.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectRequest.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectRequest.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\SubjectRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:12:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:35:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240530150034_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Migrations\\20240530150034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Migrations\\20240530150034_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Migrations\\20240530150034_InitialCreate.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Migrations\\20240530150034_InitialCreate.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAQwNsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:02:15.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StudentScheduleDto.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentScheduleDto.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentScheduleDto.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentScheduleDto.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\DTO\\StudentScheduleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:01:34.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SchoolLab1ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Migrations\\SchoolLab1ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LAB_1_LEDUYCUONG_HE163193\\Migrations\\SchoolLab1ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\huupb\\source\\repos\\LAB_1_LEDUYCUONG_HE163193\\LAB_1_LEDUYCUONG_HE163193\\Migrations\\SchoolLab1ContextModelSnapshot.cs",
+              "RelativeToolTip": "LAB_1_LEDUYCUONG_HE163193\\Migrations\\SchoolLab1ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAYwBIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:00:48.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

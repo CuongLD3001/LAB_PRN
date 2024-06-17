@@ -1,0 +1,52 @@
+﻿@model IEnumerable<dynamic>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #eaeaea;
+    }
+</style>
+
+<h2>Danh Sách Lịch Trình</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ngày</th>
+            <th>Slot</th>
+            <th>ID Giáo Viên</th>
+            <th>Trạng Thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var schedule in Model)
+        {
+            <tr>
+                <td>@schedule.scheduleId</td>
+                <td>@schedule.date</td>
+                <td>@schedule.slot</td>
+                <td>@schedule.teacherId</td>
+                <td>@schedule.status</td>
+            </tr>
+        }
+    </tbody>
+</table>

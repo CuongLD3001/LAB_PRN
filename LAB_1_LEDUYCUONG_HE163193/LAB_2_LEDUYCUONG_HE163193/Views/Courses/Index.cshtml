@@ -1,0 +1,54 @@
+﻿@model IEnumerable<dynamic>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #eaeaea;
+    }
+</style>
+
+<h2>Danh Sách Khóa Học</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Mã Khóa Học</th>
+            <th>Tên</th>
+            <th>Ngày Bắt Đầu</th>
+            <th>Ngày Kết Thúc</th>
+            <!-- Thêm các cột khác tùy thuộc vào thông tin bạn muốn hiển thị -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.courseId</td>
+                <td>@course.code</td>
+                <td>@course.name</td>
+                <td>@course.startDate</td>
+                <td>@course.endDate</td>
+                <!-- Hiển thị thông tin khác -->
+            </tr>
+        }
+    </tbody>
+</table>
